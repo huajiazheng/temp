@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/huajiazheng/StudyCode/temp/temp/temp.csproj": {}
+  },
+  "projects": {
+    "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj",
+        "projectName": "DatabaseLayer",
+        "projectPath": "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj",
+        "packagesPath": "/Users/huajiazheng/.nuget/packages/",
+        "outputPath": "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huajiazheng/StudyCode/NuGet.Config",
+          "/Users/huajiazheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.5.5-preview-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/huajiazheng/.dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huajiazheng/StudyCode/temp/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huajiazheng/StudyCode/temp/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/huajiazheng/StudyCode/temp/Service/Service.csproj",
+        "packagesPath": "/Users/huajiazheng/.nuget/packages/",
+        "outputPath": "/Users/huajiazheng/StudyCode/temp/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huajiazheng/StudyCode/NuGet.Config",
+          "/Users/huajiazheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj": {
+                "projectPath": "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.5.5-preview-01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/huajiazheng/.dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huajiazheng/StudyCode/temp/temp/temp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huajiazheng/StudyCode/temp/temp/temp.csproj",
+        "projectName": "temp",
+        "projectPath": "/Users/huajiazheng/StudyCode/temp/temp/temp.csproj",
+        "packagesPath": "/Users/huajiazheng/.nuget/packages/",
+        "outputPath": "/Users/huajiazheng/StudyCode/temp/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huajiazheng/StudyCode/NuGet.Config",
+          "/Users/huajiazheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj": {
+                "projectPath": "/Users/huajiazheng/StudyCode/temp/DatabaseLayer/DatabaseLayer.csproj"
+              },
+              "/Users/huajiazheng/StudyCode/temp/Service/Service.csproj": {
+                "projectPath": "/Users/huajiazheng/StudyCode/temp/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/huajiazheng/.dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

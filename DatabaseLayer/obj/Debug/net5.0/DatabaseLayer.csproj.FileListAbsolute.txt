@@ -1,0 +1,16 @@
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/DatabaseLayer.deps.json
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/DatabaseLayer.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/ref/DatabaseLayer.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/DatabaseLayer.pdb
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.csproj.AssemblyReference.cache
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.AssemblyInfoInputs.cache
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.AssemblyInfo.cs
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.csproj.CoreCompileInputs.cache
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.csproj.CopyComplete
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/ref/DatabaseLayer.dll
+/Users/huajiazheng/StudyCode/temp/DatabaseLayer/obj/Debug/net5.0/DatabaseLayer.pdb
